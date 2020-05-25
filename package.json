@@ -1,0 +1,31 @@
+{
+  "name": "contentful-enriched-markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel -p 8080 watch index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanjudis/contentful-enriched-markdown.git"
+  },
+  "keywords": [],
+  "author": "stefan judis <stefanjudis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanjudis/contentful-enriched-markdown/issues"
+  },
+  "homepage": "https://github.com/stefanjudis/contentful-enriched-markdown#readme",
+  "dependencies": {
+    "@contentful/field-editor-markdown": "^0.7.1",
+    "@contentful/field-editor-reference": "^0.9.0",
+    "@contentful/forma-36-react-components": "^3.39.1",
+    "alex": "^8.1.1",
+    "contentful-ui-extensions-sdk": "^3.14.3",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
