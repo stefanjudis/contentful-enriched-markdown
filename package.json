@@ -19,11 +19,10 @@
   },
   "homepage": "https://github.com/stefanjudis/contentful-enriched-markdown#readme",
   "dependencies": {
-    "@contentful/field-editor-markdown": "^0.7.1",
-    "@contentful/field-editor-reference": "^0.9.0",
+    "@contentful/field-editor-markdown": "^0.7.2",
     "@contentful/forma-36-react-components": "^3.39.1",
     "alex": "^8.1.1",
-    "contentful-ui-extensions-sdk": "^3.14.3",
+    "contentful-ui-extensions-sdk": "^3.15.0",
     "parcel-bundler": "^1.12.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
