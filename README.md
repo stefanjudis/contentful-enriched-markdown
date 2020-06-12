@@ -20,7 +20,7 @@ Contentful Apps work on a organization level. Open the top left space navigation
 
 ![App definition config dialog](./images/app-definition.png)
 
-Configure your new app as above. Give it a name and a source URL. If you only want to use the final version of this repository define `https://contentful-enriched-markdown.netlify.app/` as the app source URL.
+Configure your new app as above. Give it a name and a source URL. **If you only want to use the final version of this repository define `https://contentful-enriched-markdown.netlify.app/` as the app source URL.**
 
 In the locations section define the "App configuration screen" and "longtext" in the "Entry field" location. Save the app definition and install the app by clicking the "Install to space" button.
 
