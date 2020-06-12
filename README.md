@@ -28,7 +28,7 @@ This action will redirect you to the app configuration screen. This application 
 
 Head to the content model section and enable the field entry app for a longtext field. You'll find a new option in the "appearance" tab.
 
-![Field editor app location available in the appearance of a longtext field](./images/app-definition.png).
+![Field editor app location available in the appearance of a longtext field](./images/longtext-appearance.png).
 
 Save this new configuration and navigate to an entry of the content type you adjusted. There you'll find the new markdown editor available.
 
