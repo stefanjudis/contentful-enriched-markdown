@@ -16,7 +16,7 @@ This project includes an example of an App that provides an enriched markdown ed
 
 ## How to install an app in your Contentful organization
 
-Contentful Apps work on a organization level. Open the top left space navigation and navigate to your "Organization Settings". Click on the "Apps" item in the top navigation and create a new new app.
+Contentful Apps work on a organization level. Open the top left space navigation and navigate to your "Organization Settings". Click on the "Apps" item in the top navigation and create a new app.
 
 ![App definition config dialog](./images/app-definition.png)
 
